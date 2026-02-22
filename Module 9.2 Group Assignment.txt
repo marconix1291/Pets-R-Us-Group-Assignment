@@ -1,0 +1,12 @@
+Group Activity 1
+
+1. Story 01: As a Customer, I need to select a specific date and time for an appointment, so that I can schedule a grooming service for my dog.
+
+2. Story 02: As a Customer, I need to receive an email confirmation after booking, so that I have a record of my scheduled appointment.
+
+3. Story 03: As a Product Owner, I need customers to choose between Grooming, Training, or Boarding services from a dropdown menu, so that the appointment is routed to the correct department.
+
+Group Activity 2
+
+Group Activity 3
+
