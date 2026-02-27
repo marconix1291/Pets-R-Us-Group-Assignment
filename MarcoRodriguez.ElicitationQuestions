@@ -5,3 +5,42 @@
 3: Are there specific capacity limits or different time block rules for grooming versus training versus boarding?
 4: What is the official business policy if a customer needs to cancel or reschedule their appointment online?
 5: What is the primary metric you will use to measure the success of this new online booking feature?
+
+#Sheridan Dela Cruz's Response as a Product Owner
+
+1: Will customers be required to pay a deposit online when booking these new services, or will they pay entirely in the store?
+
+Pets‑R‑Us will require customers to pay a small deposit online when booking grooming, training, or boarding services. 
+The remaining balance will be paid in-store at the time of service. The deposit helps reduce no‑shows and ensures customers commit to their appointment slot. 
+Deposit amounts may differ by service type based on duration and resource requirements, but the overall policy is consistent across the platform.
+
+2: Do users need to create a permanent account to book an appointment, or can they use a quick guest checkout option?
+
+Customers will be able to book appointments using either a full account or a guest checkout option.
+Account users can save pet profiles, view past appointments, rebook quickly, and receive personalized recommendations.
+Guest checkout allows first‑time or infrequent customers to book without friction, requiring only essential contact and pet information.
+
+3: Are there specific capacity limits or different time block rules for grooming versus training versus boarding?
+
+Each service Pets‑R‑Us offers has unique operational constraints that the booking system must support:
+Grooming — Capacity depends on the number of groomers and grooming stations. Appointment lengths vary by service type (e.g., full groom vs. bath‑only), so time blocks must be configurable.
+Training — Private sessions follow trainer availability, while group classes have fixed start times and strict class-size limits.
+Boarding — Capacity is based on kennel availability, pet size, and length of stay. Boarding uses calendar‑based availability rather than hourly scheduling.
+
+4: What is the official business policy if a customer needs to cancel or reschedule their appointment online?
+
+Pets‑R‑Us will allow customers to cancel or reschedule up to 24 hours before their appointment without penalty. The deposit will be credited toward a future booking.
+If a customer cancels within 24 hours of their appointment, the deposit is forfeited. Rescheduling within the 24‑hour window is allowed, 
+but the deposit remains non‑refundable and is applied to the new appointment.
+
+5: What is the primary metric you will use to measure the success of this new online booking feature?
+
+The primary metric for evaluating success will be the online booking conversion rate—the percentage of users who start the booking flow and complete an appointment. 
+This metric directly reflects usability, clarity, and customer trust in the new system.
+
+Supporting metrics include:
+Reduction in no‑show rates (due to deposits)
+Percentage of total bookings made online vs. phone/in‑store
+Repeat booking rate
+Customer satisfaction with the booking experience
+Operational efficiency improvements 
