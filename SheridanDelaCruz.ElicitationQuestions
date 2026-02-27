@@ -7,3 +7,26 @@
 5. Are there any constraints we should keep in mind (budget, timeline, compliance)?
 
 # Added my elicitation interview questions, feel free to answer them as a Product Owner. Thanks
+
+#Marco Rodriguez Responses as Product Owner
+1. What is the main goal you want this system to achieve?
+The main goal is to expand our digital presence to support our new grooming, training, and boarding services. 
+We want to give customers the ability to easily schedule these services online at any time, which will increase our bookings and reduce the administrative burden on our staff.
+
+2. Who will be using the system, and what will they need it for?
+Our primary users are existing and new pet owners in the local community. 
+They need a simple, user friendly way to log in, select the service they need for their dog, and pick an available date and time. 
+Our store staff will also use the system to manage the daily schedule and view upcoming appointments.
+
+3. What challenges or frustrations are you experiencing with the current system?
+Currently, customers have to call us or visit the store to book an appointment. 
+This is frustrating for them if they want to book outside of our normal business hours. 
+For our staff, manually managing the schedule takes too much time away from helping customers in the store, and it increases the risk of double booking or missing an appointment.
+
+4. Which features or functions are absolutely essential for you?
+The absolutely essential features include a login portal for customers, a calendar interface to select dates and times, 
+a dropdown to choose between grooming, training, or boarding, and a backend system that prevents double booking our staff and kennel space.
+
+5. Are there any constraints we should keep in mind (budget, timeline, compliance)?
+We have a strict deadline to launch this before the upcoming holiday rush, as boarding demand spikes during that time. 
+We also need to make sure the system requires users to confirm their pets are up to date on vaccinations before they can finalize a boarding or training appointment.
