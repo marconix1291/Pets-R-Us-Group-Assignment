@@ -28,3 +28,21 @@ In an ideal world, we would have a fully integrated customer portal that include
 We would also love automated scheduling tools that match pets with the best available staff, along with seamless integration with our POS, CRM, and inventory systems.
 Personalized recommendations based on breed or past services would make the experience feel even more tailored. 
 Overall, the goal would be a modern, highly personalized digital experience for pet owners.
+
+
+#Megan Mosier's Elicitation Responses as Product Owner
+
+1.	What problem are you trying to solve, and how are you solving it today?
+We’re trying to reduce the manual workload and scheduling bottlenecks caused by over the phone and in-person bookings since it can be time consuming and prone to errors;
+
+2. What does success look like six months after this system is live? 
+Success looks like continuous adoption of the online booking system and a reduction of workload for our employees from booking and scheduling, and improvement to our customer experience.
+
+3. Who else is affected by this process that we haven't spoken to yet? 
+Our groomers, Trainers, and Boarding teams; Operational staff; Our Marketing team; Accounting and Finance team.
+
+4. What are the things that absolutely cannot break or go wrong? 
+We cannot have any customer data compromised.  If the scheduling system is impacted or does not work, we can fall back on our previous tactics but if we have any customer information get compromised we may not be able to recover from the trust lost.
+
+5. If budget and time weren't constraints, what would the ideal version of this look like? 
+The ideal version provides a booking platform that manages availability, capacity, and service rules automatically.  Our customers can schedule any service through an organized, intuitive interface that shows real-time openings and service details.  Our teams have a dashboard that updates in real-time, eliminating double booking and scheduling errors and auto adjusts based on staffing and booking capacity.
