@@ -31,3 +31,23 @@ As a customer, I need to update my pet’s profile information so that groomers 
 
 Story 6. Groomer Notes & Behavior Logging (Priority 6)
 As a groomer, I need to log pet behavior and service notes so that future appointments are informed by past experiences.
+
+#Megan Mosier User Stories on Elicitation Responses, ranked as well
+
+1.	(1st priority) Appointment Scheduling and Reminders
+As a customer, I need clear confirmation and reminders for my appointments so that I can trust my bookings went through.  That way I can plan my visit confidently.
+
+2.	(2nd priority) Accurate Availibility
+As a staff member, I need the system to show accurate, real time availability, so that I can avoid double booking and manage daily capacity confidently.
+
+3.	(3rd priority) Correct Scheduling Guidelines
+As a product owner, I need automated scheduling for each service we have available, so that appointments follow correct durations and capacity limits without relying on manual oversight.
+
+4.	(4th priority) Appointment and Scheduling Modification
+As a customer, I need to easily modify or cancel my appointment online, so that I can manage my plans without calling the store or waiting for staff assistance.
+
+5.	(5th priority) Fewer Manual Oversight of Scheduling
+As a front desk team member, I need fewer manual scheduling tasks so I can focus on in-person customer service instead of managing calls and correcting booking errors.
+
+6.	(6th priority) Scheduling and Program Analytics
+As a product owner, I need clear analytics on booking behavior and system performance, so that I can identify trends, address issues quickly, and guide future improvements.
