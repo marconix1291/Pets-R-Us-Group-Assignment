@@ -3,3 +3,25 @@
 3.What is your desired timeline, and what is driving it?
 4Are there any budget constraints for this project?
 5.  Who will maintain this after the release?
+
+#Marco Rodriguez Elicitation Responses as Prodict Owner
+
+1. What does a successful outcome for this project look like for you?
+A successful outcome means that the majority of our customers are booking their grooming, training, and boarding appointments online instead of calling the store. 
+It also means our staff spends less time on the phone and more time taking care of the animals, and we completely eliminate the issue of double booking appointments.
+
+2. What is happening today without this feature?
+Right now, customers can only book appointments by calling us during business hours or walking into the store. 
+Our staff has to write everything down in a paper planner and a basic spreadsheet, which takes a lot of time and leads to mistakes like accidentally booking two dogs for the same kennel space.
+
+3. What is your desired timeline, and what is driving it?
+Our goal is to have this system fully live and tested before the upcoming holiday season. 
+The holidays are our busiest time for boarding, and we need this automated system in place to handle the surge in reservations without overwhelming our front desk staff.
+
+4. Are there any budget constraints for this project?
+Yes, since we just invested heavily in expanding our physical space for the new services, we have a strict budget for this digital expansion. 
+We need to focus strictly on the core features, like the booking calendar and the double booking prevention, before we consider adding luxury features like a custom mobile app or live webcams.
+
+5. Who will maintain this after the release?
+Our internal IT coordinator will handle the day to day maintenance and troubleshooting. 
+However, we are hoping to establish a continuous service contract with your development team to handle major updates, security patches, and the integration of any future features.
