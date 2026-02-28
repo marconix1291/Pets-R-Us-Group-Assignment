@@ -11,3 +11,30 @@ Story 4: As a customer, I need to be able to cancel or reschedule my appointment
 Story 5: As a returning customer with a registered account, I need to view my past appointments and saved pet profiles, so that I can quickly rebook my favorite services with just a few clicks and receive personalized recommendations.
 
 Story 6: As a product owner, I need a reporting dashboard that tracks the online booking conversion rate, so that I can measure exactly how many customers successfully complete the online flow compared to manual scheduling.
+
+#Sheridan Dela Cruz User Stories on Elicitation Responses (I ranked them as a start)
+
+Story 1. Online Appointment Scheduling (Priority 1)
+As a customer, I need to schedule grooming, training, or boarding appointments online so that I can book services at any time without calling the store.
+
+Story 2. Service Selection (Priority 2)
+As a customer, I need to choose the specific service my dog needs so that I can book the correct appointment type.
+
+Story 3. Calendar & Time Slot Selection (Priority 3)
+As a customer, I need to view available dates and times so that I can select an appointment that fits my schedule.
+
+Story 4. Groomer Daily Schedule View (Priority 4)
+As a groomer, I need to see my scheduled appointments for the day so that I can prepare for each pet and manage my workload.
+
+Story 5. Pet Profile Updates (Priority 5)
+As a customer, I need to update my pet’s profile information so that groomers have accurate details before the appointment.
+
+Story 6. Groomer Notes & Behavior Logging (Priority 6)
+As a groomer, I need to log pet behavior and service notes so that future appointments are informed by past experiences.
+
+Story 7. Double Booking Prevention (Priority 7)
+As a store employee, I need the system to prevent overlapping appointments so that staff and kennel space are never double booked.
+
+Story 8. After Hours Booking (Priority 8)
+As a customer, I need the ability to book appointments outside normal business hours so that I’m not restricted by store operating times.
+
