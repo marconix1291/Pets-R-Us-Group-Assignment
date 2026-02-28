@@ -46,3 +46,29 @@ We cannot have any customer data compromised.  If the scheduling system is impac
 
 5. If budget and time weren't constraints, what would the ideal version of this look like? 
 The ideal version provides a booking platform that manages availability, capacity, and service rules automatically.  Our customers can schedule any service through an organized, intuitive interface that shows real-time openings and service details.  Our teams have a dashboard that updates in real-time, eliminating double booking and scheduling errors and auto adjusts based on staffing and booking capacity.
+
+
+#Marco Rodriguez Elicitation Responses as Product Owner
+
+1. What problem are you trying to solve, and how are you solving it today?
+We recently expanded to offer grooming, training, and boarding, but customers can only book these services by calling us or visiting the store.
+This takes up a lot of staff time and frustrates customers who want to book outside of our normal business hours. 
+Today, we are just using a paper planner and a basic spreadsheet at the front desk to manage the schedule, which unfortunately leads to a lot of mistakes and double bookings.
+
+2. What does success look like six months after this system is live?
+Success to me means that at least sixty percent of all our service appointments are being booked online instead of over the phone. 
+I also want to see a complete stop to double bookings and an overall increase in our daily appointments simply because it is much easier for our customers to find a time and schedule it themselves.
+
+3. Who else is affected by this process that we haven't spoken to yet?
+The actual service staff, like the groomers and the dog trainers, are heavily affected because their entire daily routine will be dictated by this new system. 
+We should probably also speak to the general store manager who handles employee scheduling. 
+They need to make sure we have enough staff on the clock to match the volume of online bookings we receive.
+
+4. What are the things that absolutely cannot break or go wrong?
+The system absolutely cannot allow double booking under any circumstances. 
+If two dogs are booked for the exact same boarding kennel, or if one groomer is booked for three dogs at the exact same time, it creates an operational nightmare and ruins customer trust. 
+It is also critical that the system does not lose or scramble pet vaccination records, as we are legally required to have those on file before accepting a dog for boarding.
+
+5. If budget and time weren't constraints, what would the ideal version of this look like?
+In a perfect world, the ideal version would include a dedicated mobile application with a customer portal where owners could check a live webcam of their dog in our boarding facility. 
+It would also have automated text message reminders, a digital waiver signing feature, and a seamless payment gateway so customers could pay for the service and tip the groomer online before they even arrive to pick up their pet.
