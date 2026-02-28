@@ -1,0 +1,13 @@
+#Marco Rodriguez User Stories Based on Elicitation Responses
+
+Story 1: As a customer, I need the ability to securely pay a small deposit or save a card on file during the booking process, so that I can guarantee my appointment slot and the store can reduce no show rates.
+
+Story 2: As a store manager, I need the system to require all customers to register their pet details before finalizing a booking, so that our staff is fully prepared for the specific size and needs of the animal arriving.
+
+Story 3: As a product owner, I need the booking system to enforce unique capacity rules and time blocks for grooming, training, and boarding, so that we never overbook our physical kennel space or trainer availability.
+
+Story 4: As a customer, I need to be able to cancel or reschedule my appointment online, so that I can adjust my plans while the system automatically applies any necessary 24 hour cancellation fees or deposit forfeitures.
+
+Story 5: As a returning customer with a registered account, I need to view my past appointments and saved pet profiles, so that I can quickly rebook my favorite services with just a few clicks and receive personalized recommendations.
+
+Story 6: As a product owner, I need a reporting dashboard that tracks the online booking conversion rate, so that I can measure exactly how many customers successfully complete the online flow compared to manual scheduling.
