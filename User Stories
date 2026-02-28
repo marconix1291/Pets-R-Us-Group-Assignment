@@ -31,10 +31,3 @@ As a customer, I need to update my pet’s profile information so that groomers 
 
 Story 6. Groomer Notes & Behavior Logging (Priority 6)
 As a groomer, I need to log pet behavior and service notes so that future appointments are informed by past experiences.
-
-Story 7. Double Booking Prevention (Priority 7)
-As a store employee, I need the system to prevent overlapping appointments so that staff and kennel space are never double booked.
-
-Story 8. After Hours Booking (Priority 8)
-As a customer, I need the ability to book appointments outside normal business hours so that I’m not restricted by store operating times.
-
