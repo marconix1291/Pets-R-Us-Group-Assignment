@@ -51,3 +51,23 @@ As a front desk team member, I need fewer manual scheduling tasks so I can focus
 
 6.	(6th priority) Scheduling and Program Analytics
 As a product owner, I need clear analytics on booking behavior and system performance, so that I can identify trends, address issues quickly, and guide future improvements.
+
+# Garvin Stewart - User Stories on Elicitation Responses
+
+1. Customer Account Registration and Login
+As a customer, I want to create an account and log in securely, so that I can access my pet profiles and manage my appointments without starting over each time.
+
+2. Service-Specific Scheduling Rules
+As a staff member, I want the system to enforce capacity limits and time block rules per service type; grooming by duration and groomer, training by group or individual format, boarding by kennel capacity, so that the schedule is always operationally valid.
+
+3. Vaccination Record Upload
+As a customer, I want to upload my dog's vaccination records to my pet profile, so that staff can verify compliance before a boarding appointment without requiring me to bring physical documents.
+
+4. Late Cancellation Flagging
+As a staff member, I want the system to flag cancellations made within 24 hours of the appointment and log no-shows to the customer's account, so that I have visibility into reliability patterns.
+
+5. Online Payment and Tipping
+As a customer, I want to pay for services and tip the groomer online before my appointment, so that the pickup process is faster and cashless.
+
+6. Automated Staff-to-Pet Matching
+As a staff member, I want the system to automatically match incoming bookings to the most suitable available staff member based on breed, service type, or history, so that scheduling decisions are made intelligently without manual intervention.
